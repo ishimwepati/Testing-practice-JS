@@ -2,6 +2,9 @@
   "devDependencies": {
     "jest": "^29.6.2"
   },
+  "author": {
+    "author": "WazaCode"
+  },
   "jest": {
     "testMatch": [
       "**/__tests__/**/*.[jt]s?(x)",
